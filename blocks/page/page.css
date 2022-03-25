@@ -1,0 +1,9 @@
+.page {
+    background-color: #2A2C2F;
+    color: #fff;
+    font-family: 'inter', Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    padding: 28px 0 24px;
+    margin: 0 auto;
+}
+
