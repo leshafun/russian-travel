@@ -5,14 +5,17 @@
     margin:  0 0 26px;
 }
 
+.place__paragraph-text:last-child {
+    margin-bottom: 0;
+    }
+
 @media screen and (max-width: 768px) {
     .place__paragraph-text {
         font-size: 16px;
-        line-height: 1.63;
     }
 }
 
-@media screen and (max-width: 535px) {
+@media screen and (max-width: 545px) {
     .place__paragraph-text {
         max-width: 288px;
         margin: 32px auto 25px;

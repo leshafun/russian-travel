@@ -22,7 +22,7 @@
     }
 }
 
-@media screen and (max-width: 535px) {
+@media screen and (max-width: 545px) {
     .photo-grid {
         padding-top: 64px;
         width: calc(100% - 32px);
